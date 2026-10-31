@@ -6,11 +6,11 @@ A full-stack job-search tracker with AI-assisted matching, an automatic job-disc
 
 
 ![Tracker](docs/screenshots/Tracker.png)
+![Tracker](docs/screenshots/Job-Detail.png)
 ![Tracker](docs/screenshots/Analytics-1.png)
 ![Tracker](docs/screenshots/Analytics-2.png)
 ![Tracker](docs/screenshots/Career-lanes.png)
 ![Tracker](docs/screenshots/Discover-Jobs.png)
-![Tracker](docs/screenshots/Job-Detail.png)
 ![Tracker](docs/screenshots/MCP-Claude-in-work.png)
 
 
