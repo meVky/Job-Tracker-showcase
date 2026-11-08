@@ -5,12 +5,12 @@ A full-stack job-search tracker with AI-assisted matching, an automatic job-disc
 > **This repository is a showcase.** It documents the architecture, the MCP tool interface and the data model. The application source is private and no user data or credentials appear here.
 
 
-![Tracker](docs/screenshots/Tracker.png)
+![Tracker](docs/screenshots/Job-tracker.png)
 ![Tracker](docs/screenshots/Job-Detail.png)
 ![Tracker](docs/screenshots/Analytics-1.png)
 ![Tracker](docs/screenshots/Analytics-2.png)
-![Tracker](docs/screenshots/Career-lanes.png)
-![Tracker](docs/screenshots/Discover-Jobs.png)
+![Tracker](docs/screenshots/CareerInsights.png)
+![Tracker](docs/screenshots/Discover-Adzuna-customCompany.png)
 ![Tracker](docs/screenshots/MCP-Claude-in-work.png)
 
 
